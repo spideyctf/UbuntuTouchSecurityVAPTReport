@@ -84,7 +84,3 @@ New findings are welcome! Please use the [**New Finding issue template**](ISSUE_
 ## Disclaimer
 
 This repository contains information about security vulnerabilities for educational and research purposes. The proof-of-concept code should only be used on systems you own or have explicit permission to test. The authors are not responsible for any misuse of this information.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
